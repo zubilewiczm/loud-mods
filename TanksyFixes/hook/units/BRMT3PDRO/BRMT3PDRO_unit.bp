@@ -1,0 +1,13 @@
+UnitBlueprint {
+
+	Merge = true,
+    BlueprintId = "brmt3pdro",
+	 
+    Weapon = {
+        {
+            ArtilleryShieldBlocks = true,
+            BallisticArc = 'RULEUBA_HighArc',
+            RangeCategory = 'UWRC_IndirectFire',
+		},
+    },
+}

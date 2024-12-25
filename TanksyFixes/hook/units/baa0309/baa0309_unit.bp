@@ -1,0 +1,26 @@
+UnitBlueprint {
+
+	Merge = true,
+    BlueprintId = "baa0309",
+	 
+    Weapon = {
+        {
+            ProjectileLifetimeUsesMultiplier = 1.1
+		},
+        {
+            ProjectileLifetimeUsesMultiplier = 1.1
+		},
+        {
+            ProjectileLifetimeUsesMultiplier = 1.1
+		},
+        {
+            ProjectileLifetimeUsesMultiplier = 1.1
+		},
+        {
+            ProjectileLifetimeUsesMultiplier = 1.1
+		},
+        {
+            ProjectileLifetimeUsesMultiplier = 1.1
+		},
+    },
+}

@@ -1,0 +1,13 @@
+UnitBlueprint {
+
+	Merge = true,
+    BlueprintId = "bal0310",
+	 
+    Weapon = {
+        {
+            BallisticArcKeep = true,
+		},
+		{
+		},
+    },
+}

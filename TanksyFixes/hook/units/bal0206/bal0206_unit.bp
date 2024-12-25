@@ -1,0 +1,12 @@
+UnitBlueprint {
+
+	Merge = true,
+    BlueprintId = "bal0206",
+	 
+    Weapon = {
+        {
+            RangeCategory = 'UWRC_DirectFire',
+            ProjectileLifetimeUsesMultiplier = 10.0,
+		},
+    },
+}

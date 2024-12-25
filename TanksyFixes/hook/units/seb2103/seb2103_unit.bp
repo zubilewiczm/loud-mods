@@ -1,0 +1,12 @@
+UnitBlueprint {
+
+	Merge = true,
+    BlueprintId = "seb2103",
+	 
+    Weapon = {
+        {
+            ProjectileLifetimeUsesMultiplier = 10.0,
+            BallisticArc = 'RULEUBA_HighArc',
+		},
+    },
+}

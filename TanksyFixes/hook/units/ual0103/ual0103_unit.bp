@@ -1,0 +1,11 @@
+UnitBlueprint {
+
+	Merge = true,
+    BlueprintId = "ual0103",
+	 
+    Weapon = {
+        {
+            ProjectileLifetimeUsesMultiplier = 5.0,
+		},
+    },
+}

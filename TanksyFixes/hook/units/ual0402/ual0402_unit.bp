@@ -1,0 +1,27 @@
+UnitBlueprint {
+
+	Merge = true,
+    BlueprintId = "ual0402",
+	 
+    Weapon = {
+        {
+			-- Main cannon
+		    BallisticArcKeep = true,
+			RangeCategory = "UWRC_IndirectFire",
+		},
+		{
+		    -- Beam
+		},
+		{
+		    -- Shoulder gun
+			BallisticArc = "RULEUBA_None",
+			RangeCategory = "UWRC_DirectFire",
+		},
+		{
+		    -- AA
+		},
+		{
+            -- Chrono
+		},
+    },
+}
