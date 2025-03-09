@@ -1,0 +1,10 @@
+name = "Core LOUD fixes"
+uid = "e5145b43-d50b-540a-b77d-8bca69b0744d"
+version = 0.1
+description = "Fixes minor bugs and annoyances found in core LOUD."
+author = "kalafior"
+icon = "/mods/CoreFixes/icon-core-fixes.png"
+selectable = true
+enabled = true
+exclusive = false
+ui_only = false
